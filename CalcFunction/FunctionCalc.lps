@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="FunctionCalc.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitFunctionCalc"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <Caret Line="56" Column="42" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <Caret Line="59" Column="2" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <Caret Line="50" Column="52" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <Caret Line="52" Column="31" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <Caret Line="58" Column="67" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <Caret Line="50" Column="61" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="unitfunctioncalc.pas"/>
+        <Caret Line="57" Column="10" TopLine="47"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
